@@ -1,0 +1,11 @@
+version = 1
+name = 'Test Playlist'
+description = 'Listen to my mood'
+keywords = ['personal', 'spotify', 'large']
+genre = 'idk'
+cover = 'https://private-user-images.githubusercontent.com/'
+
+[[track]]
+name = 'Beautiful Dream'
+artists = ['CYCLOPOP']
+spotify = '1cFOxSwrXWZQimUzqxdCIc'
